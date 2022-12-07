@@ -7,6 +7,7 @@ If your linux machine does not fit our requirements, please run `./setup.sh`.
 
 ### Run the benchmark
 > Note: All benchmark scripts must be included inside of the YCSB folder you cloned during the setup step.
+
 Run `./benchmark.sh`
 
 ### View the results
